@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+#button{
+	color:white;
+	background:red;
+	padding:10px;
+	text-decoration:none;
+	border-radius:5px;
+	
+}
+img{
+	width:100%;
+	height:100%;
+	object-fit:cover;
+}
+.contain{
+	text-align:center;
+	margin:25px;
+}
+div p{
+	margin:20px
+}
+.hero{
+	display:flex;
+}
+
